@@ -1,5 +1,5 @@
 # Video Link
-https://drive.google.com/file/d/1zAmaJaNZGx5U96ZLRIDsXPYyhn2aRP2u/view?usp=drive_link
+https://drive.google.com/file/d/1zAmaJaNZGx5U96ZLRIDsXPYyhn2aRP2u/view?usp=sharing
 
 # Task Manager
 
